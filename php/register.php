@@ -123,7 +123,7 @@ function uploadImage($filename)
       <div class="w3-col m6 w3-padding-small">
           <div class="w3-container w3-padding-32"> 
               <div class="w3-card-4 w3-round w3-padding">
-                <form name="loginForm" action="register.php" enctype="multipart/form-data" method="post" >
+                <form name="registrationForm" action="register.php" enctype="multipart/form-data" method="post" >
                     <h3 class="w3-center">Registration</h3>
 
                     <p>
